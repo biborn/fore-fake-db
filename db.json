@@ -1,4 +1,4 @@
-{
+[
     {
         "id": 1,
         "title": "Sunday Casual",
@@ -49,4 +49,4 @@
         "state": "Perak",
         "join_count": 7
     }
-}
+]
